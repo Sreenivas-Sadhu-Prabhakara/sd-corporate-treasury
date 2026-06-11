@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-corporate-treasury
+description: "BIAN Service Domain: Corporate Treasury (Manage pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Finance"
+  bian/asset-type: "Treasury Plan"
+  bian/control-record: "Treasury Plan Management Plan"
